@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C43A-7942
+
+ Directory of C:\Users\lakshmi.naraparaju\Desktop\My project
+
+10/05/2019  12:01    <DIR>          .
+10/05/2019  12:01    <DIR>          ..
+10/05/2019  12:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25.566.502.912 bytes free
